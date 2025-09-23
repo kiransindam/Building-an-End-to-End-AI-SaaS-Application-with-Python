@@ -111,9 +111,8 @@ ai_saas/
 ├── config/
 └── requirements.txt
 ```
-```
-bash  link : https://ai-saas-application-74uw.bolt.host/
-  ```
+
+link : https://ai-saas-application-74uw.bolt.host/
 
 - Database Models: SQLAlchemy ORM definitions
 
