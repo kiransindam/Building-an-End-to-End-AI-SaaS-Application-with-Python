@@ -1,13 +1,13 @@
 # Comprehensive Guide: Building an End-to-End AI SaaS Application with Python
 This guide provides a structured roadmap for developing a production-ready AI-powered Software as a Service application using Python and modern web technologies.
 
-Screenshot 2025-09-23 162202.png<img width="1794" height="970" alt="Screenshot 2025-09-23 162202" src="https://github.com/user-attachments/assets/e18c60a4-5c46-4819-a879-1216441d67b9" />
+<img width="1794" height="970" alt="Screenshot 2025-09-23 162202" src="https://github.com/user-attachments/assets/e18c60a4-5c46-4819-a879-1216441d67b9" />
 
 # 1. Project Overview
 Application Purpose and Target Audience
 Define Core Value Proposition: Identify the specific problem your AI solution addresses
-Target Market Analysis: Determine primary user segments (B2B, B2C, enterprise, SMBs)
-Business Model: Establish pricing strategy (freemium, subscription tiers, usage-based)
+- Target Market Analysis: Determine primary user segments (B2B, B2C, enterprise, SMBs)
+-> Business Model: Establish pricing strategy (freemium, subscription tiers, usage-based)
 Success Metrics: Define KPIs for user engagement, retention, and revenue
 Core AI Functionality Identification
 Machine Learning Models: Supervised/unsupervised learning, deep learning
